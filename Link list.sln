@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Link list", "Link list.csproj", "{E9157216-B3EB-4825-AAF1-9C997B24F7A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkedlists", "Linkedlists.csproj", "{E9157216-B3EB-4825-AAF1-9C997B24F7A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject3", "..\TestProject3\TestProject3.csproj", "{CD29BACE-DB10-4BE4-BBBA-D4209BF213B9}"
 EndProject
